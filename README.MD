@@ -43,3 +43,9 @@
 <img src="ReadImages/VariosTest.png">
 
 
+Un resumen de los cambios proporcionados a las ayudas propuestas en el parcial, fue:
+
+- Cambiar el controlador para responder un responseEntity y manejar bine los status code.
+- Cambiar la logica de añadir un producto para que la id sea secuancial y no se añadna varios productos con ID no secuenciales.
+- Usar buenas practicas con PR a main.
+- Creacion de coleccion postman con varios ejemplos.
