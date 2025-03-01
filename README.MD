@@ -36,3 +36,10 @@
 
 <img src="ReadImages/NotExist.png">
 
+9. Para validar el funcionamiento correcto del programa se hicieron tres post con distintas laptops, la collecion en postman se ñade en el archivo ParcialARSW.postman_collection.json, los resultados se ven a continuacion:
+
+<img src="ReadImages/TestCollection.png">
+
+<img src="ReadImages/VariosTest.png">
+
+
